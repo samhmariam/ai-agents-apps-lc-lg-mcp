@@ -1,0 +1,12 @@
+[project]
+name = "ai-agents-apps-lc-lg-mcp"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "langchain>=1.2.13",
+    "langchain-openai>=1.1.12",
+    "marimo>=0.21.1",
+    "openai>=2.30.0",
+]
